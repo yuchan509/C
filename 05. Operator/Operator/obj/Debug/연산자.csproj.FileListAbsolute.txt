@@ -1,0 +1,6 @@
+C:\Users\pnu\source\repos\연산자\연산자\bin\Debug\연산자.exe.config
+C:\Users\pnu\source\repos\연산자\연산자\bin\Debug\연산자.exe
+C:\Users\pnu\source\repos\연산자\연산자\bin\Debug\연산자.pdb
+C:\Users\pnu\source\repos\연산자\연산자\obj\Debug\연산자.csproj.CoreCompileInputs.cache
+C:\Users\pnu\source\repos\연산자\연산자\obj\Debug\연산자.exe
+C:\Users\pnu\source\repos\연산자\연산자\obj\Debug\연산자.pdb
