@@ -1,0 +1,6 @@
+C:\Users\pnu\source\repos\ConverType\ConverType\bin\Debug\ConverType.exe.config
+C:\Users\pnu\source\repos\ConverType\ConverType\bin\Debug\ConverType.exe
+C:\Users\pnu\source\repos\ConverType\ConverType\bin\Debug\ConverType.pdb
+C:\Users\pnu\source\repos\ConverType\ConverType\obj\Debug\ConverType.csproj.CoreCompileInputs.cache
+C:\Users\pnu\source\repos\ConverType\ConverType\obj\Debug\ConverType.exe
+C:\Users\pnu\source\repos\ConverType\ConverType\obj\Debug\ConverType.pdb
