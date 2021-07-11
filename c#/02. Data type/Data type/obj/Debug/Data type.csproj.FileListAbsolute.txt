@@ -1,7 +1,0 @@
-C:\Users\pnu\Desktop\c#\Data type\Data type\obj\Debug\Data type.csprojAssemblyReference.cache
-C:\Users\pnu\Desktop\c#\Data type\Data type\obj\Debug\Data type.csproj.CoreCompileInputs.cache
-C:\Users\pnu\Desktop\c#\Data type\Data type\bin\Debug\Data type.exe.config
-C:\Users\pnu\Desktop\c#\Data type\Data type\bin\Debug\Data type.exe
-C:\Users\pnu\Desktop\c#\Data type\Data type\bin\Debug\Data type.pdb
-C:\Users\pnu\Desktop\c#\Data type\Data type\obj\Debug\Data type.exe
-C:\Users\pnu\Desktop\c#\Data type\Data type\obj\Debug\Data type.pdb

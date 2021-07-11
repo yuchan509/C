@@ -1,6 +1,0 @@
-C:\Users\pnu\source\repos\Hello Project\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
-C:\Users\pnu\source\repos\Hello Project\ConsoleApp1\bin\Release\ConsoleApp1.exe
-C:\Users\pnu\source\repos\Hello Project\ConsoleApp1\bin\Release\ConsoleApp1.pdb
-C:\Users\pnu\source\repos\Hello Project\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\pnu\source\repos\Hello Project\ConsoleApp1\obj\Release\ConsoleApp1.exe
-C:\Users\pnu\source\repos\Hello Project\ConsoleApp1\obj\Release\ConsoleApp1.pdb

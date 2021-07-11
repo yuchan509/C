@@ -1,7 +1,0 @@
-C:\Users\pnu\Desktop\c#\제어문\제어문\obj\Debug\제어문.csprojAssemblyReference.cache
-C:\Users\pnu\Desktop\c#\제어문\제어문\obj\Debug\제어문.csproj.CoreCompileInputs.cache
-C:\Users\pnu\Desktop\c#\제어문\제어문\bin\Debug\제어문.exe.config
-C:\Users\pnu\Desktop\c#\제어문\제어문\bin\Debug\제어문.exe
-C:\Users\pnu\Desktop\c#\제어문\제어문\bin\Debug\제어문.pdb
-C:\Users\pnu\Desktop\c#\제어문\제어문\obj\Debug\제어문.exe
-C:\Users\pnu\Desktop\c#\제어문\제어문\obj\Debug\제어문.pdb
